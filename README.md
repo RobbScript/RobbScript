@@ -1,4 +1,4 @@
-#### RobbScript
+#### RobbScript :crescent_moon:
 
 * I am a programmer, i code in java, ruby, elixir, python.
 * I actually create small projects and tests
