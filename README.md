@@ -1,6 +1,6 @@
 # RobbScript :brazil:
 
-* I am a brazillian programmer, i code in **Java, Ruby, Elixir and Python.** :crescent_moon:
+* I am a brazillian programmer, i code in **Python, Java and Ruby.** :crescent_moon:
 * I actually create small projects and tests 🌃
 * I like learn new langs 🍃
 
